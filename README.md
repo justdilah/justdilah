@@ -1,5 +1,7 @@
-### Hi there 👋
 ![alt text](header_image.png)
+
+### Hi, I'm Nur Dilah
+
 <!--
 **justdilah/justdilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
