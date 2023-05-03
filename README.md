@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](header.png)
+![alt text](header_image.png)
 <!--
 **justdilah/justdilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
