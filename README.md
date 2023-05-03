@@ -3,7 +3,7 @@
 ![alt text](header_image.png)
 
 ## Hi There, I'm Dilah 🙂
-* 🎓 I'm a computer science undergraduate at NTU
+* 🎓 I'm a computer science undergraduate at Nanyang Technological University
 * ⌨ I enjoy programming and love to learn new things
 * 📚 My passion lies in software development and artificial intelligence
 
