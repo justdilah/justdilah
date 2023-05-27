@@ -33,6 +33,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+### 📚 Frameworks, Platforms and Libraries
+<p>
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-000000?logo=node.js&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/react-000000?logo=react&logoColor=%2361DAFB"/>
+    <img alt="JQuery" src="https://img.shields.io/badge/jquery-000000?logo=jquery&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white"/>    
+</p>
+
 ### 🖌️ Design
 <p>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-000000.svg?logo=figma&logoColor=white"></a>
@@ -40,6 +48,8 @@
     <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-000000.svg?logo=adobe%20photoshop&logoColor=white"></a>
     <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-000000.svg?logo=adobe%20illustrator&logoColor=white"></a>
 </p>
+
+
 
 
 
